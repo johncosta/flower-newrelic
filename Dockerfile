@@ -8,4 +8,4 @@ RUN cd /tmp; wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py;\
  python get-pip.py; rm get-pip.py;
 
 # add flower
-RUN pip install redis flower
+RUN pip install redis flower newrelic

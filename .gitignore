@@ -38,10 +38,10 @@ coverage.xml
 *.mo
 
 # Mr Developer
+.idea
 .mr.developer.cfg
 .project
 .pydevproject
-.idea 
 
 # Rope
 .ropeproject
